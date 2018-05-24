@@ -7,7 +7,7 @@ Those functions are part of the backend for the app [Projector](https://github.c
 
 Clone the repo on your machine. After that you will need to create a new project on Firebase [here](https://firebase.google.com/), then follow the instructions to setup `firebase-tools`. Keep in mind you-ll need [`NodeJs`](https://nodejs.org/it/download/).
 
-[Here's the essay of the app](https://raw.githubusercontent.com/lamba92/Projector/master/stuff/relazione.pdf).
+[Here's the essay of the app](https://1drv.ms/b/s!Ar6fi5PcyoeolvRL7v5hdIMyQnCC6A).
 
 ## Author
 
