@@ -1,0 +1,11 @@
+.idea/
+functions/etc/
+functions/node_modules/
+firebase.json
+functions/lib
+.firebaserc
+functions/package-lock.json
+functions/package.json
+functions/tsconfig.json
+functions/tslint.json
+
